@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.claude/
+.playwright-mcp/
+*.png
+*.jpg
+discoveries.json
+.DS_Store
