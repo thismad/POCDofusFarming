@@ -1,6 +1,6 @@
-# Dofus Touch Protocol Research
+# Dofus Unity Protocol Research
 
-**Built in a single afternoon as a vibe coding experiment.** This is a raw proof of concept — the goal was to show that reverse-engineering the Dofus Touch protocol and automating gameplay is achievable quickly with minimal tooling. There are known bugs, the code is rough, and this project will not be maintained.
+**Built in a single afternoon as a vibe coding experiment.** This is a raw proof of concept — the goal was to show that reverse-engineering the Dofus Unity protocol and automating gameplay is achievable quickly with minimal tooling. There are known bugs, the code is rough, and this project will not be maintained.
 
 > **Disclaimer:** This project is for educational and research purposes only. It is not intended for use on live game servers or to violate any terms of service.
 
@@ -43,7 +43,7 @@ dofus_bot.py            Orchestrator (combat / navigation / auto mode)
 
 - macOS (uses `tcpdump`, `cliclick`, `screencapture`)
 - Python 3.10+
-- Dofus Touch running on the same machine (or accessible via network)
+- Dofus Unity running on the same machine (or accessible via network)
 - `sudo` access for `tcpdump` packet capture
 
 Install cliclick:
