@@ -1,6 +1,6 @@
 # Dofus Touch Protocol Research
 
-Research project / proof of concept for reverse-engineering the Dofus 3 (Touch) network protocol. Intercepts protobuf-encoded TCP traffic in real time and automates gameplay through screen interaction.
+**Built in a single afternoon as a vibe coding experiment.** This is a raw proof of concept — the goal was to show that reverse-engineering the Dofus Touch protocol and automating gameplay is achievable quickly with minimal tooling. There are known bugs, the code is rough, and this project will not be maintained.
 
 > **Disclaimer:** This project is for educational and research purposes only. It is not intended for use on live game servers or to violate any terms of service.
 
